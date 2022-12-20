@@ -35,8 +35,8 @@ The datasets are not publicly available and according to the terms and condition
 
 <a id='filesdescription'></a>
 ### Files Description
-- project_nguebel.jpynb: Notebook containing data exploration and visualisations
-- attribute_list.csv: list of the attributes described in the dataset and type of the attributes
+- Arvato Project Workbook_v3.ipynb: Notebook containing data exploration and visualisations
+- attribute_list.csv: list of the attributes described in the dataset and type of the attributes used during cleaning
 
 <a id='technicaloverview'></a>
 ## Technical Overview
