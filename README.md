@@ -2,7 +2,7 @@
 
 ## Data scientist Udacity Nanodegree - Capstone Project
 
-This project is part of the Udacity course for Data Scientist. The corresponding Blog can be found on medium: https://medium.com/@nicolas.guebel/who-should-i-mail-or-getting-to-know-your-customers-2e3bbcda3d8b.
+This project is part of the Udacity course for Data Scientist. The corresponding Blog can be found on <a href="https://medium.com/@nicolas.guebel/who-should-i-mail-or-getting-to-know-your-customers-2e3bbcda3d8b">medium</a>.
 
 ## Table of Contents
 - [Project Overview](#projectoverview)
@@ -41,21 +41,18 @@ The datasets are not publicly available and according to the terms and condition
 ## Technical Overview
 The Notebook is structured in 3 main parts:
 - Part 0: We will get to know the data, assess data quality, define necessary cleaning steps.
--- gather: reading csv files
--- assess: after loading the files into pandas, data quality assessments are made and possible changes
--- clean: functions for cleaning rows, columns with missing values, clean mixed datatype and imputing values.
--- analyze: several analysis are performed to find necessary cleaning steps
+  - gather: reading csv files
+  - assess: after loading the files into pandas, data quality assessments are made and possible changes
+  - clean: functions for cleaning rows, columns with missing values, clean mixed datatype and imputing values.
+  - analyze: several analysis are performed to find necessary cleaning steps
 - Part 1: Customer segmentation using PCA & KMeans
--- clean: One Hot encoding of categorical variables
--- model: PCA and KMeans are performed
--- visualize: cluster distribution for general population and customer are plotted
--- analyze: trace back the most important features for the cluster with the most differences
+  - clean: One Hot encoding of categorical variables
+  - model: PCA and KMeans are performed
+  - visualize: cluster distribution for general population and customer are plotted
+  - analyze: trace back the most important features for the cluster with the most differences
 - Part 2: Supervised learning: who is more likely to respond
--- clean: cleaning for the mailout dataset
--- model: different classifier are evaluated
-
-model: feature selection and encoding have been used in the last part
-visualize: box plots, bar chartsm scatterplot are used to illustrate the findings and / or investigate a possible relationship in the data. -- boston_data: contains 3 csv files with data from Boston -- seatle_data: contains 3 csv files with data from Seatle
+  - clean: cleaning for the mailout dataset
+  - model: different classifier are evaluated
 
 <a id='results'></a>
 ## Results:
