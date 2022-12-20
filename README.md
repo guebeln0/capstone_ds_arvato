@@ -65,7 +65,7 @@ In a next step, we build cluster in the population and compaired it with our cus
 Finally we could express our Cluster in term of important features. Our customer seem to be wealthier, having higher spec car and living in the west of Germany.
 
 ### Question 2: who is more likely to respond?
-We wanted to know if we could predict “who is more likely to respond?”. We created a Classifier with an ROC AUC score of xxx . This can then be used to include in future campaign customer that are more likely to respond.
+We wanted to know if we could predict “who is more likely to respond?”. We created a Classifier with an ROC AUC score of 0.62. This can then be used to include in future campaign customer that are more likely to respond.
 
 <a id='requirements'></a>
 ## Requirements:
