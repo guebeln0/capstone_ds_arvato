@@ -50,7 +50,9 @@ The Notebook is structured in 3 main parts:
 -- model: PCA and KMeans are performed
 -- visualize: cluster distribution for general population and customer are plotted
 -- analyze: trace back the most important features for the cluster with the most differences
-- Part 2:  Supervised
+- Part 2: Supervised learning: who is more likely to respond
+-- clean: cleaning for the mailout dataset
+-- model: different classifier are evaluated
 
 model: feature selection and encoding have been used in the last part
 visualize: box plots, bar chartsm scatterplot are used to illustrate the findings and / or investigate a possible relationship in the data. -- boston_data: contains 3 csv files with data from Boston -- seatle_data: contains 3 csv files with data from Seatle
