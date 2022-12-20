@@ -12,6 +12,7 @@ This project is part of the Udacity course for Data Scientist. The corresponding
 - [Results](#results)
 - [Requirements](#requirements)
 - [Acknowledgments](#acknowlegments)
+- [License](#license)
 
 
 <a id='projectoverview'></a>
@@ -73,5 +74,7 @@ required python packages: pandas, numpy, matplotlib, sklearn, xgboost
 <a id='acknowlegments'></a>
 ## Acknowledgments
 Dataset credit: Udacity and Arvato on <a hef="https://www.kaggle.com/competitions/udacity-arvato-identify-customers/overview">Kaggle</a>
+Tutorial in using PCA & KMeans in <a href="https://365datascience.com/tutorials/python-tutorials/pca-k-means/">365datascience</a>.
 
-LICENSE: MIT license
+<a id='license'></a>
+## LICENSE: MIT license
